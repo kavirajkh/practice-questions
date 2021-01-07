@@ -1,1 +1,4 @@
-.idea/
+/.idea/
+/out/
+/practice-questions.iml
+/src/coding/leetcode/topics/arrays/HelloWorld.java
